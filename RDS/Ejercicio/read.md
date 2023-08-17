@@ -10,11 +10,11 @@ Tabla # 1 - Trabajadores.
   Despliega la Base de datos RDS (PostgreSQL) y conéctate a través de DATASPELL o en su caso en DBeaver.Crea una tabla de trabajadores con 
   los campos ID, Nombre, Fecha de Ingreso, Fecha de Nacimiento y Cargo.Ingresa los datos mostrados en la tabla # 1 - Trabajadores.
 
-Maria Katerine jaramillo jaramillo .
-Fecha de Ingreso → 08/07/2015
-Fecha de Nacimiento → 25/08/1998
-Cargo → Software Engineer Senior
-Ingresar el registro del nuevo empleado.
+1. [Maria Katerine jaramillo jaramillo](#ide1) .
+2. [Fecha de Ingreso → 08/07/2015](#ide2)
+3. [Fecha de Nacimiento → 25/08/1998](#ide3)
+3. [Cargo → Software Engineer Senior](#ide4)
+4. [Ingresar el registro del nuevo empleado](#id5).
 
 Ahora quieres probar las funcionalidades de Backup de la base de datos y para eso, vas a restaurar la base de datos al momento anterior al cual agregaste el último ingreso (Juan Camilo Rodriguez).
 
